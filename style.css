@@ -1,0 +1,429 @@
+
+.book-table h3{
+	font-size: 36px;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	padding-top: 50px;
+	color: #ffffff;
+}
+
+.book-table h2 {
+	font-size: 36px;
+	font-family: 'Cantata One', serif;
+	text-align: center;
+	padding: 
+		padding-top:10px;
+		padding-right: 0px;
+		padding-bottom: 20px;
+		padding-left: 0px;
+	color: #ffffff;
+}
+
+.book-table p {
+	font-family: 'Kulim Park', sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #ffffff;
+}
+
+.button-row {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+
+.most-popular h3 {
+	font-size: 36px;
+	font-family: 'Great Vibes', cursive;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.most-popular h2 {
+	font-size: 36px;
+	font-family: 'Cantata One', serif;
+	padding: 
+		padding-top:10px;
+		padding-right: 0px;
+		padding-bottom: 10px;
+		padding-left: 0px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.book-table {
+	background-image: url(booktable.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-bottom: 60px;
+}
+
+footer {
+	text-align: center;
+	background:black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:white;
+}
+
+
+.header {
+	background-image: url(ourgallery/our-gallery.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 200px 400px
+}
+
+.header h2 {
+	font-size: 60px;
+	background: rgba(0,0,0, 0.1);
+	padding: 8px 24px;
+	text-align: center;
+	border-radius: 16px;
+	color: white;
+}
+
+.header-menu {
+	background-image: url(newmenu/our-menu.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 200px 400px
+}
+
+.header-menu h2 {
+	font-size: 60px;
+	background: rgba(0,0,0, 0.1);
+	padding: 8px 24px;
+	text-align: center;
+	border-radius: 16px;
+	color: white;
+}
+
+.menubar{
+	padding:4em 0;
+}
+
+.menu-menu h3 {
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+
+.menu {
+    margin: 4em 0 0 0;
+
+}
+
+.menu-grid {
+    padding: 0;
+
+}
+
+.col-md-6{
+	float: left;
+}
+
+.menu-img {
+    padding: 0;
+    background: url(newmenu/menu1.jpg) no-repeat 0px 0px;
+    min-height: 280px;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+    
+}
+
+.img1{
+    background: url(newmenu/menu5.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img2{
+    background: url(newmenu/menu4.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img3{
+    background: url(newmenu/menu2.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img4{
+    background: url(newmenu/menu3.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img5{
+    background: url(newmenu/menu6.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img6{
+    background: url(newmenu/menu7.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+.img7{
+    background: url(newmenu/menu8.jpg) no-repeat 0px 0px !important;
+    background-size: cover !important;
+}
+
+
+
+.harga p{
+    color: #FFFFFF;
+    font-size: 1.3em;
+    padding: 1.5em 0 0 0;
+    background: rgba(0,0,0, 0.5);
+    width: 100px;
+    margin: 0;
+    height: 100px;
+}
+
+.menu-img img{
+	width:100%;
+}
+
+.menu-info{
+    text-align: center;
+    padding: 3.66em 2em;
+    background: #FFFFFF;
+    
+}
+.menu-info h4{
+    color: #000;
+    font-size: 1.5em;
+    margin: .3em 0 0 0;
+    position: relative;
+}
+
+.menu-info p{
+    line-height: 1.5em;
+    margin: 1.5em 0 0 0;
+    color: #999999;
+    font-size: .9em;
+}
+
+.button-menu {
+	margin: 20px;
+}
+
+.btn {
+	size: 15px;
+	color: black;
+	background-color: white;
+	border-color: black;
+}
+
+.header-resp {
+	background-image: url(book-table.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 200px 400px
+}
+
+.header-resp h2 {
+	font-size: 60px;
+	background: rgba(0,0,0, 0.1);
+	padding: 8px 24px;
+	text-align: center;
+	border-radius: 16px;
+	color: white;
+}
+
+.resp-text h3{
+	font-size: 36px;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	padding-top: 50px;
+	color: #000000;
+}
+
+.resp-text h2 {
+	font-size: 30px;
+	font-family: 'Cantata One', serif;
+	text-align: center;
+	padding: 
+		padding-top:10px;
+		padding-right: 0px;
+		padding-bottom: 20px;
+		padding-left: 0px;
+	color: #000000;
+}
+
+.resp-text p {
+	font-family: 'Kulim Park', sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #000000;
+}
+
+.form{
+	padding: 10px;
+}
+
+.form .btn {
+	width: 100%;
+	background-color: #ff0000;
+	border: solid 1px #ff0000;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.map-area {
+	width: 100%;
+
+}
+
+.map-info {
+	padding-left: 55px;
+}
+
+.map-info h3{
+	font-family: 'Cantata One', serif;
+}
+
+.map-info p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.map-info ul{
+	padding-left: 0;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	list-style: none;
+}
+
+.map-info h4{
+	font-family: 'Cantata One', serif;
+}
+
+.map-info h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+}
+.map {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.media {
+	padding-bottom: 50px;
+	padding-top: 25px;
+}
+
+.media-body h4 {
+	font-family: 'Cantata One', serif;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+.media-body h5 {
+	text-align: justify;
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+	padding-left: 10px;
+}
+
+.media-body p {
+	text-align: justify;
+	font-family: 'Muli', sans-serif;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.imglist {
+	height: 150px;
+}
+
+.list-unstyled ul {
+	padding-top: 0;
+	margin: 0;
+}
+
+.gallery {
+	margin-bottom: 60px;
+	margin-left: 60px;
+
+}
+
+.gallery img {
+	width: 250px;
+	padding: 5px;
+	filter: grayscale(0);
+	transition: 1s;
+}
+
+.gallery img:hover {
+	filter: grayscale(50%);
+	transform: scale(1.1);
+}
+
+.header1 {
+	background-image: url(ourgallery/our-testi.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding: 200px 400px
+}
+
+.header1 h2 {
+	font-size: 60px;
+	background: rgba(0,0,0, 0.1);
+	padding: 8px 24px;
+	text-align: center;
+	border-radius: 16px;
+	color: white;
+}
+
+.our-chef {
+	padding: 10px;
+	margin: 15px;
+}
+.our-chef img {
+	width: 260px;
+	padding: 5px;
+	filter: grayscale(0);
+	transition: 1s;
+}
+
+.our-chef img:hover {
+	filter: grayscale(50%);
+	transform: scale(1.1);
+}
+
+.chef h3 {
+	font-size: 36px;
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	padding-top: 50px;
+	color: #000000;
+}
+
+.chef h2 {
+	font-size: 36px;
+	font-family: 'Cantata One', serif;
+	text-align: center;
+	padding: 
+		padding-top:10px;
+		padding-right: 0px;
+		padding-bottom: 20px;
+		padding-left: 0px;
+	color: #000000;
+}
+
+.chef p {
+	font-family: 'Kulim Park', sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #000000;
+}
+
+.menu-btn .btn a {
+	border-color: rgba(0,0,0,0.5);
+	color: #000000;
+}
